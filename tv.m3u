@@ -1,0 +1,954 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 1 HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8052
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 1  HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6223
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 2 FHD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6222
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 2 HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8051
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 3 HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8050
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF Sport HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8049
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17309
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV 2 AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17310
+#EXTINF:0 tvg-id="ext" group-title="Channels",Plus4 HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681925
+#EXTINF:0 tvg-id="ext" group-title="Channels",Plus4 AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17308
+#EXTINF:0 tvg-id="ext" group-title="Channels",W24 Wien HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17305
+#EXTINF:0 tvg-id="ServusTV.at" group-title="Channels",Servus TV HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679670
+#EXTINF:0 tvg-id="ext" group-title="Channels",oe24 HD AT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679818
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blue Action HD CH
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/668093
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blue Stars FHD CH
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/688615
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blue Prime FHD CH
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9005
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blue Emotion FHD CH
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/668094
+#EXTINF:0 tvg-id="mtv.nl" group-title="Channels",MTV NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5103
+#EXTINF:0 tvg-id="MTVMusic24.nl" group-title="Channels",MTV Music 24 NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5102
+#EXTINF:0 tvg-id="ext" group-title="Channels",Xite HD NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5101
+#EXTINF:0 tvg-id="SLAM!TV.nl" group-title="Channels",SLAM! NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11396
+#EXTINF:0 tvg-id="ext" group-title="Channels",192 TV NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11446
+#EXTINF:0 tvg-id="TVoranje.nl" group-title="Channels",TV Oranje NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11391
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Music NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11434
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stingray LiteTV NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11395
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mezzo NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11418
+#EXTINF:0 tvg-id="ext" group-title="Channels",IConcerts NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11420
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJazz TV NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11423
+
+#EXTINF:0 tvg-id="ext" group-title="Germany",########## Germany ##########
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6267
+
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",------- Main & Regional -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678832
+#EXTINF:0 tvg-id="ARD.de" group-title="Main & Regional",Das Erste HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13166
+#EXTINF:0 tvg-id="ARD.de" group-title="Main & Regional",Das Erste  HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6262
+#EXTINF:0 tvg-id="ARD.de" group-title="Main & Regional",Das Erste DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6256
+#EXTINF:0 tvg-id="ZDF.de" group-title="Main & Regional",ZDF FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6151
+#EXTINF:0 tvg-id="ZDF.de" group-title="Main & Regional",ZDF HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17011
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Main & Regional",ZDF Neo HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17304
+#EXTINF:0 tvg-id="RTL.de" group-title="Main & Regional",RTL FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13565
+#EXTINF:0 tvg-id="RTL.de" group-title="Main & Regional",RTL FHD  DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683243
+#EXTINF:0 tvg-id="RTL.de" group-title="Main & Regional",RTL HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6216
+#EXTINF:0 tvg-id="Sat1.de" group-title="Main & Regional",Sat.1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6210
+#EXTINF:0 tvg-id="Sat1.de" group-title="Main & Regional",Sat.1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683455
+#EXTINF:0 tvg-id="Pro7.de" group-title="Main & Regional",Pro 7 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6220
+#EXTINF:0 tvg-id="Pro7.de" group-title="Main & Regional",Pro 7 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683393
+#EXTINF:0 tvg-id="Pro7.de" group-title="Main & Regional",Pro Sieben FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8235
+#EXTINF:0 tvg-id="Pro7.de" group-title="Main & Regional",Pro Sieben HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13144
+#EXTINF:0 tvg-id="Vox.de" group-title="Main & Regional",VOX FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13553
+#EXTINF:0 tvg-id="Vox.de" group-title="Main & Regional",VOX HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6153
+#EXTINF:0 tvg-id="VOXup.de" group-title="Main & Regional",VOXup DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679836
+#EXTINF:0 tvg-id="Kabel.de" group-title="Main & Regional",Kabel 1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6242
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Kabel 1 Classic HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9151
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Main & Regional",Kabel 1 Classic DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679844
+#EXTINF:0 tvg-id="RTL2.de" group-title="Main & Regional",RTL 2 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6215
+#EXTINF:0 tvg-id="RTL2.de" group-title="Main & Regional",RTL 2 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13136
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Main & Regional",RTL Nitro FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6212
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Main & Regional",RTL Nitro HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13137
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Main & Regional",RTL Passion FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8219
+#EXTINF:0 tvg-id="RTLPlus.de" group-title="Main & Regional",RTL Plus DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9152
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Main & Regional",RTL Crime FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6214
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Main & Regional",RTL Crime HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17012
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Crime & Investigation FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6263
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Crime & Investigation HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8197
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Main & Regional",RTL Living FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6150
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Main & Regional",RTL Living HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6213
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Sat1 Emotion DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13135
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Main & Regional",Sat1 Gold FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6209
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Pro 7 Fun FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6219
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Pro 7 Fun HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13145
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Pro 7 Fun  HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13142
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Main & Regional",Pro 7 Maxx FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6218
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Main & Regional",Pro 7 Maxx HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683394
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Pro Sieben Maxx HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13143
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Pro Sieben Maxx FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8234
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Main & Regional",E! Entertainment FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13569
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Main & Regional",E! Entertainment HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9137
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Main & Regional",E! Entertainment DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5095
+#EXTINF:0 tvg-id="SRF1.ch" group-title="Main & Regional",SRF 1 DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6170
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",MDR HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6238
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",MDR S-Anhalt HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8240
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",MDR Sachsen HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8239
+#EXTINF:0 tvg-id="3sat.de" group-title="Main & Regional",3Sat FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/16289
+#EXTINF:0 tvg-id="3sat.de" group-title="Main & Regional",3sat HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6265
+#EXTINF:0 tvg-id="ndr.de" group-title="Main & Regional",NDR HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6225
+#EXTINF:0 tvg-id="HR.de" group-title="Main & Regional",HR FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13150
+#EXTINF:0 tvg-id="HR.de" group-title="Main & Regional",HR HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6243
+#EXTINF:0 tvg-id="HR.de" group-title="Main & Regional",HR Fernsehen HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8225
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="Main & Regional",RBB Berlin HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6217
+#EXTINF:0 tvg-id="BR.de" group-title="Main & Regional",BR HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/687568
+#EXTINF:0 tvg-id="BR.de" group-title="Main & Regional",BR DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13168
+#EXTINF:0 tvg-id="SWR.de" group-title="Main & Regional",SWR HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6165
+#EXTINF:0 tvg-id="WDR.de" group-title="Main & Regional",WDR HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6152
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Franken Fernsehen FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/677835
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",BW Family TV FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6246
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",BW Family TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23772
+#EXTINF:0 tvg-id="QVC.de" group-title="Main & Regional",QVC HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13140
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",QVC Beauty & Style DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13141
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Sonnenklar TV FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13130
+#EXTINF:0 tvg-id="ext" group-title="Main & Regional",Event - Covid Info FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679845
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",------- Sports -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678834
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Sports",Sky Sport F1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/687666
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Sports",Sky Sport F1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/687667
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sports News FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13555
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sports News HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/684431
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Sports",Sky Sport 1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/684432
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Sports",Sky Sport 1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683895
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Sports",Sky Sport 1 DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9125
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Sports",Sky Sport 1  DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/684429
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Sports",Sky Sport 2 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7362
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Sports",Sky Sport 2 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683896
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13563
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6182
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13562
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9127
+#EXTINF:0 tvg-id="SkySport5.de" group-title="Sports",Sky Sport 5 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13561
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9126
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6181
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6180
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6179
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6178
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6177
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/684430
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683408
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683409
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13538
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/73136
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/684005
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/62223
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/135258
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/135671
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/62220
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/91235
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/135335
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/62002
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/619225
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6198
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6197
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6196
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6195
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/625243
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 2 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/50775
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Sports",Sport1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6173
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Sports",Sport1 HD  DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8221
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Sports",Sport1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8226
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Sports",Sport1+ FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679847
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Sports",Sport1+ HD  DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679848
+#EXTINF:0 tvg-id="ext" group-title="Sports",eSports 1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/687730
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 1 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679821
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 2 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679822
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 3 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679823
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 4 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679824
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 5 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679825
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 6 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679826
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Fuball 7 HD [Match Time] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679827
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Eishockey 1 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679671
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Eishockey 2 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679672
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Eishockey 3 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679673
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Eishockey 4 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679676
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Basketball 1 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679674
+#EXTINF:0 tvg-id="ext" group-title="Sports",Telekom Basketball 2 [Match Time] HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679675
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="Sports",Eurosport 1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8218
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Sports",Eurosport 2 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9131
+#EXTINF:0 tvg-id="Eurosport2Xtra.de" group-title="Sports",Eurosport 2 Xtra FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13163
+#EXTINF:0 tvg-id="Eurosport2Xtra.de" group-title="Sports",Eurosport 2 Xtra HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9130
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Sports",Sport Digital FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8244
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Sports",Sport Digital HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6171
+#EXTINF:0 tvg-id="ext" group-title="Sports",Motorvision HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8222
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="Sports",Auto Motor Sport FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9132
+#EXTINF:0 tvg-id="ext" group-title="Sports",FC Bayern TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9128
+
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",------- Movies & Series -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678836
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Movies & Series",Sky Action HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5093
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Movies & Series",Sky Action DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6205
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="Movies & Series",Sky Cinema Special FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8217
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="Movies & Series",Sky Cinema Special HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6252
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="Movies & Series",Sky Cinema Thriller FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5089
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="Movies & Series",Sky Cinema Thriller HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7372
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky Cinema Thriller DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6193
+#EXTINF:0 tvg-id="SkyPremieren.de" group-title="Movies & Series",Sky Cinema Premieren FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6194
+#EXTINF:0 tvg-id="SkyPremieren.de" group-title="Movies & Series",Sky Cinema Premieren HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7373
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="Movies & Series",Sky Cinema Premieren +24 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6192
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="Movies & Series",Sky Cinema Premieren +24 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13133
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Movies & Series",Sky Cinema Action HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7370
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Movies & Series",Sky Cinema Action DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9146
+#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="Movies & Series",Sky Cinema Fun HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9144
+#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="Movies & Series",Sky Cinema Fun DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6190
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Movies & Series",Sky Cinema Best Of FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7368
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Movies & Series",Sky Cinema Best Of HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8223
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Movies & Series",Sky Cinema Family FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9145
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Movies & Series",Sky Cinema Family HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7369
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky Cinema Classics HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13131
+#EXTINF:0 tvg-id="SkyCinemaClassics.de" group-title="Movies & Series",Sky Cinema Classics DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6186
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Movies & Series",Sky Cinema Best of DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5088
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Movies & Series",Sky Atlantic HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7367
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Movies & Series",Sky Atlantic DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6204
+#EXTINF:0 tvg-id="SkyAtlanticPlus1.de" group-title="Movies & Series",Sky Atlantic +1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13134
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Movies & Series",Sky 13TH Street FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5098
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Movies & Series",Sky 13TH Street HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7365
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Movies & Series",Sky 13TH Street  HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8198
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky One FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9138
+#EXTINF:0 tvg-id="One.de" group-title="Movies & Series",One HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9147
+#EXTINF:0 tvg-id="Fox.de" group-title="Movies & Series",Fox FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13567
+#EXTINF:0 tvg-id="Fox.de" group-title="Movies & Series",Fox HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6245
+#EXTINF:0 tvg-id="Fox.de" group-title="Movies & Series",Fox DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23770
+#EXTINF:0 tvg-id="SciFi.de" group-title="Movies & Series",Syfy FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7364
+#EXTINF:0 tvg-id="SciFi.de" group-title="Movies & Series",Syfy HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5087
+#EXTINF:0 tvg-id="SciFi.de" group-title="Movies & Series",Syfy DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6164
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky Krimi HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8220
+#EXTINF:0 tvg-id="TNTGlitz.de" group-title="Movies & Series",TNT Comedy FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6157
+#EXTINF:0 tvg-id="TNTGlitz.de" group-title="Movies & Series",TNT Comedy HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/687541
+#EXTINF:0 tvg-id="TNTFilm.de" group-title="Movies & Series",TNT Film FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6156
+#EXTINF:0 tvg-id="TNTFilm.de" group-title="Movies & Series",TNT Film HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683894
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="Movies & Series",TNT Serie FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5084
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="Movies & Series",TNT Serie HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6155
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="Movies & Series",TNT Serie DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13154
+#EXTINF:0 tvg-id="Universal.de" group-title="Movies & Series",Universal FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5265
+#EXTINF:0 tvg-id="SonyEntertainmentTV.de" group-title="Movies & Series",Sony TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6167
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Movies & Series",Kinowelt HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6240
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Movies & Series",Kinowelt DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/672086
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Premiere FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681946
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Horror FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681942
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Thriller FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681950
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Sci-Fi FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681949
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Animation HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681939
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Mythologie HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681945
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Lcheln HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681944
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Geschichte HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681941
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Eagle Cinema Romantisch FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/681948
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="Movies & Series",Sky Select 1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/655131
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="Movies & Series",Sky Select 1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7375
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Movies & Series",Sky Select 2 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/655130
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Movies & Series",Sky Select 2 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7376
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Movies & Series",Sky Select 3 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/655129
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Movies & Series",Sky Select 3 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7377
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Movies & Series",Sky Select 4 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/655128
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Movies & Series",Sky Select 4 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/7378
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="Movies & Series",Sky Select 5 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8977
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky Select 5 HD [demnchst] DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/655127
+#EXTINF:0 tvg-id="SkySelect6.de" group-title="Movies & Series",Sky Select 6 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8976
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky Select 6 FHD (demnchst) DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/655126
+#EXTINF:0 tvg-id="SkySelect7.de" group-title="Movies & Series",Sky Select 7 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8975
+#EXTINF:0 tvg-id="SkySelect8.de" group-title="Movies & Series",Sky Select 8 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8974
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23778
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 2 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683536
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 2 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23777
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 3 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683537
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 3 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23776
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 4 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23775
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",PopCorn Select 5 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683540
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HiperCinema 4K DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683524
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema Boxset FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683534
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema INFO FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683523
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 1 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683535
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 2 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683525
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 3 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683526
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 4 4K DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683527
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 5 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683528
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 6 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683529
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 7 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683530
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 8 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683531
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 9 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683532
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",HyperCinema 10 FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683533
+#EXTINF:0 tvg-id="AXN.de" group-title="Movies & Series",AXN FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5097
+#EXTINF:0 tvg-id="AXN.de" group-title="Movies & Series",AXN HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6259
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Movies & Series",Comedy Central FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6154
+#EXTINF:0 tvg-id="Romance.de" group-title="Movies & Series",Romance TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13152
+#EXTINF:0 tvg-id="Romance.de" group-title="Movies & Series",Romance TV DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6211
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",Sky Heimat Kanal HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678481
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="Movies & Series",Sky Heimat Kanal DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6188
+#EXTINF:0 tvg-id="Sixx.de" group-title="Movies & Series",Sixx FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6207
+#EXTINF:0 tvg-id="ServusHD.de" group-title="Movies & Series",Servus TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6208
+#EXTINF:0 tvg-id="Tele5.de" group-title="Movies & Series",Tele 5 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9150
+#EXTINF:0 tvg-id="BibelTV.de" group-title="Movies & Series",Bibel TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/677497
+
+#EXTINF:0 tvg-id="ext" group-title="Documentary",------- Documentary -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678919
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Documentary",ZDF Info HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9148
+#EXTINF:0 tvg-id="N24Doku.de" group-title="Documentary",N24 Doku DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679837
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Kabel Eins Doku FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13147
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Kabel 1 Doku DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679843
+#EXTINF:0 tvg-id="HistoryHD.de" group-title="Documentary",History Channel FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6244
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Documentary",Spiegel Geschichte HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6174
+#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Documentary",Spiegel TV Wissen HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9135
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Documentary",Discovery FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13570
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Documentary",Discovery HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5096
+#EXTINF:0 tvg-id="ext" group-title="Documentary",DOXX HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679846
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Documentary",Animal Planet FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8196
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Documentary",Animal Planet HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13173
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Documentary",National Geographic HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8194
+#EXTINF:0 tvg-id="NatGeo.de" group-title="Documentary",National Geographic DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6226
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Documentary",Nat Geo wild FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6227
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Documentary",Nat Geo Wild HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9136
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Documentary",Nat Geo Wild DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5085
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Welt der Wunder HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679838
+#EXTINF:0 tvg-id="WeltDerWunder.de" group-title="Documentary",Welt der Wunder DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13129
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Documentary",Anixe HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6264
+#EXTINF:0 tvg-id="DMax.de" group-title="Documentary",Dmax FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6249
+#EXTINF:0 tvg-id="TLC.de" group-title="Documentary",TLC HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8224
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Luxe TV FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/676714
+#EXTINF:0 tvg-id="ARTE.de" group-title="Documentary",Sky Arte FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5091
+#EXTINF:0 tvg-id="ARTE.de" group-title="Documentary",Sky Arte HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9139
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Sky Arte DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6261
+#EXTINF:0 tvg-id="ext" group-title="Documentary",ARD Alpha HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13171
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Waidwerk FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/687566
+
+#EXTINF:0 tvg-id="ext" group-title="News",------- News -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678922
+#EXTINF:0 tvg-id="EuronewsDE.nws" group-title="News",Euronews DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6248
+#EXTINF:0 tvg-id="ext" group-title="News",Welt HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6228
+#EXTINF:0 tvg-id="ntv.de" group-title="News",N-TV FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13149
+#EXTINF:0 tvg-id="ntv.de" group-title="News",N-TV HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/8195
+#EXTINF:0 tvg-id="ntv.de" group-title="News",N-TV DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13566
+#EXTINF:0 tvg-id="MunchenTV.de" group-title="News",Munchen TV DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6229
+#EXTINF:0 tvg-id="phoenix.de" group-title="News",Phoenix HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6221
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="News",Tagesschau 24 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6163
+
+#EXTINF:0 tvg-id="ext" group-title="Children",------- Children -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678923
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Children",Super RTL FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13554
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Children",Super RTL HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6166
+#EXTINF:0 tvg-id="Kika.de" group-title="Children",KiKa FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679839
+#EXTINF:0 tvg-id="Kika.de" group-title="Children",Kika HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6241
+#EXTINF:0 tvg-id="ext" group-title="Children",Baby TV DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13169
+#EXTINF:0 tvg-id="ext" group-title="Children",Toggo Plus HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5086
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Children",Toggo Plus DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9133
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Children",Boomerang HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6258
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Children",Cartoon Network FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6257
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Children",Disney Channel FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6253
+#EXTINF:0 tvg-id="DisneyJunior.de" group-title="Children",Disney Junior FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13568
+#EXTINF:0 tvg-id="DisneyJunior.de" group-title="Children",Disney Junior HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6251
+#EXTINF:0 tvg-id="ext" group-title="Children",Junior HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6239
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="Children",Nickelodeon HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6224
+#EXTINF:0 tvg-id="FixFoxi.de" group-title="Children",Fix & Foxi DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23771
+
+#EXTINF:0 tvg-id="ext" group-title="Music",------- Music -------
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/678925
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="Music",MTV FHD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/35466
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV +1 HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/679793
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV 80s DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/638080
+#EXTINF:0 tvg-id="Classica.de" group-title="Music",Sky Classica DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/6191
+#EXTINF:0 tvg-id="Classica.de" group-title="Music",Classica HD DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13167
+#EXTINF:0 tvg-id="GoldstarTV.de" group-title="Music",GoldStar TV DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683427
+#EXTINF:0 tvg-id="Jukebox.de" group-title="Music",Jukebox DE
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13148
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Polska FHD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9838
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Polska HD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9832
+#EXTINF:0 tvg-id="MTVNHD.pl" group-title="Music",MTV Live FHD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9833
+#EXTINF:0 tvg-id="VH1European.pl" group-title="Music",VH1 PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9828
+#EXTINF:0 tvg-id="ext" group-title="Music",VH1 Polska PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9827
+#EXTINF:0 tvg-id="4fun.pl" group-title="Music",4Fun TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9825
+#EXTINF:0 tvg-id="4FunDance.pl" group-title="Music",4Fun Dance PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9864
+#EXTINF:0 tvg-id="4FunGoldHits.pl" group-title="Music",4Fun Gold Hits PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9863
+#EXTINF:0 tvg-id="VoxMusicTV.pl" group-title="Music",Vox Music TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9885
+#EXTINF:0 tvg-id="ext" group-title="Music",Nuta TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9849
+#EXTINF:0 tvg-id="ext" group-title="Music",Eska TV HD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9807
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="Music",Eska TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9857
+#EXTINF:0 tvg-id="EskaROCK.pl" group-title="Music",Eska Rock TV HD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9858
+#EXTINF:0 tvg-id="EskaROCK.pl" group-title="Music",Eska Rock TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9852
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" group-title="Music",Disco Polo Music PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9816
+#EXTINF:0 tvg-id="ext" group-title="Music",Polo TV FHD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9814
+#EXTINF:0 tvg-id="ext" group-title="Music",Polo Party TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9902
+#EXTINF:0 tvg-id="PolsatMusic.pl" group-title="Music",Polsat Music FHD PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9847
+#EXTINF:0 tvg-id="PowerTV.pl" group-title="Music",Power TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9846
+#EXTINF:0 tvg-id="StarsTV.pl" group-title="Music",Stars TV PL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9820
+#EXTINF:0 tvg-id="ext" group-title="Music",Clubland TV VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15769
+#EXTINF:0 tvg-id="ext" group-title="Music",Now 70s VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/685773
+#EXTINF:0 tvg-id="ext" group-title="Music",Now 80s VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/685774
+#EXTINF:0 tvg-id="4Music.uk" group-title="Music",4Music UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15698
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV FHD VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683775
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Music VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683776
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Live FHD VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/671334
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Live HD VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9540
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Hits VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683777
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Base HD VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15818
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Base VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9537
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Classic VIP UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683898
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV 90s UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15845
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV 80s UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9509
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV 80s Classic UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/683778
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="Music",Box Hits UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15785
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Music",Capital TV UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/11459
+#EXTINF:0 tvg-id="ext" group-title="Music",Kerrang TV UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15827
+#EXTINF:0 tvg-id="Kiss.uk" group-title="Music",Kiss UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15826
+#EXTINF:0 tvg-id="Magic.uk" group-title="Music",Magic UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15824
+#EXTINF:0 tvg-id="TheBox.uk" group-title="Music",The Box UK
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/15880
+#EXTINF:0 tvg-id="ext" group-title="Music",Balkanika Music FHD BG
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5948
+#EXTINF:0 tvg-id="ext" group-title="Music",Box TV BG
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5953
+#EXTINF:0 tvg-id="ext" group-title="Music",BG Music HD BG
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/9011
+#EXTINF:0 tvg-id="ext" group-title="Music",The Voice BG
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5941
+#EXTINF:0 tvg-id="ext" group-title="Music",City TV BG
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/902
+#EXTINF:0 tvg-id="ext" group-title="Music",Penthouse Gold FHD (18+) US
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13863
+#EXTINF:0 tvg-id="ext" group-title="Music",Penthouse Quickies FHD (18+) US
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13862
+#EXTINF:0 tvg-id="ext" group-title="Music",Vivid RED FHD (18+) US
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13864
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Music",Redlight FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/674061
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Music",Dorcel FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5529
+#EXTINF:0 tvg-id="ext" group-title="Music",EroX (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13867
+#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Music",EroXXX FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13866
+#EXTINF:0 tvg-id="DuskTV.ero" group-title="Music",Dusk (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19678
+#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Music",Hustler FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/674060
+#EXTINF:0 tvg-id="ext" group-title="Music",Hustler (18+) US
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5525
+#EXTINF:0 tvg-id="ext" group-title="Music",Maiden van Holland (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/674125
+#EXTINF:0 tvg-id="ext" group-title="Music",Balkan Erotik (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13404
+#EXTINF:0 tvg-id="ext" group-title="Music",Brazzers (18+) US
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13403
+#EXTINF:0 tvg-id="playboy" group-title="Music",PlayBoy TV HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19674
+#EXTINF:0 tvg-id="ext" group-title="Music",Play Boy CA (+18)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/17717
+#EXTINF:0 tvg-id="playboy" group-title="Music",PlayBoy TV (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19673
+#EXTINF:0 tvg-id="ext" group-title="Music",Playboy (18+) ES
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5512
+#EXTINF:0 tvg-id="ext" group-title="Music",Pink' o TV (18+) IT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/16348
+#EXTINF:0 tvg-id="PinkErotic.rs" group-title="Music",Pink Erotic 1 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5521
+#EXTINF:0 tvg-id="PinkErotic2.rs" group-title="Music",Pink Erotic 2 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5520
+#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Music",Pink Erotic 3 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5519
+#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Music",Pink Erotic 4 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5518
+#EXTINF:0 tvg-id="PinkErotic5.rs" group-title="Music",Pink Erotic 5 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5517
+#EXTINF:0 tvg-id="PinkErotic6.rs" group-title="Music",Pink Erotic 6 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5516
+#EXTINF:0 tvg-id="ext" group-title="Music",Pink Erotic 7 FHD (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5515
+#EXTINF:0 tvg-id="PinkErotic8.rs" group-title="Music",Pink Erotic 8 (18+) EX-YU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5514
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 1 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5494
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 2 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5493
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 3 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5492
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 4 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5491
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 5 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5490
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 6 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5489
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 7 HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5488
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 8 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5487
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 9 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5486
+#EXTINF:0 tvg-id="ext" group-title="Music",Porn 10 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5485
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 2 HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5509
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 3 HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5508
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 4 FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5507
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 6 FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5505
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 7 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5504
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 8 FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5503
+#EXTINF:0 tvg-id="ext" group-title="Music",Primafila Hot Club 9 FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5502
+#EXTINF:0 tvg-id="ext" group-title="Music",Blacked FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5495
+#EXTINF:0 tvg-id="BungaBunga.al" group-title="Music",Bunga Bunga (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5532
+#EXTINF:0 tvg-id="ext" group-title="Music",ButGo (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19684
+#EXTINF:0 tvg-id="candy" group-title="Music",Candy (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19683
+#EXTINF:0 tvg-id="ext" group-title="Music",Centoxcento TV (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19682
+#EXTINF:0 tvg-id="ext" group-title="Music",Cento Cento HD (18+) IT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5531
+#EXTINF:0 tvg-id="ext" group-title="Music",Daughter Swap (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19680
+#EXTINF:0 tvg-id="ext" group-title="Music",Dusk DeLuxe (18+) NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5528
+#EXTINF:0 tvg-id="ext" group-title="Music",Desire FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5530
+#EXTINF:0 tvg-id="ext" group-title="Music",Hot HD (18+) PT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13397
+#EXTINF:0 tvg-id="ext" group-title="Music",Hot (18+) PT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5526
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Music",Dorcel (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19679
+#EXTINF:0 tvg-id="ext" group-title="Music",Leo TV (18+) CZ
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/16350
+#EXTINF:0 tvg-id="ext" group-title="Music",Jasmin TV (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/16002
+#EXTINF:0 tvg-id="ext" group-title="Music",Passie (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13402
+#EXTINF:0 tvg-id="ext" group-title="Music",O La La FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5523
+#EXTINF:0 tvg-id="ext" group-title="Music",Moms Teach (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13401
+#EXTINF:0 tvg-id="MeidenVanHolland.nl" group-title="Music",Meiden van Holland Hard (18+) NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5524
+#EXTINF:0 tvg-id="ext" group-title="Music",Penthouse FHD (18+) US
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5522
+#EXTINF:0 tvg-id="ext" group-title="Music",Platinum FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5513
+#EXTINF:0 tvg-id="ext" group-title="Music",Private (18+) NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5501
+#EXTINF:0 tvg-id="RealityKings.us" group-title="Music",Reality Kings (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13399
+#EXTINF:0 tvg-id="ext" group-title="Music",Reality Sex (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19670
+#EXTINF:0 tvg-id="ext" group-title="Music",Red Light (18+) NL
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5500
+#EXTINF:0 tvg-id="ext" group-title="Music",SCT HD (18+) IT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5498
+#EXTINF:0 tvg-id="ext" group-title="Music",Sext Senso (18+) IT
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5497
+#EXTINF:0 tvg-id="ext" group-title="Music",Sirina 1 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5536
+#EXTINF:0 tvg-id="ext" group-title="Music",Sirina 2 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5535
+#EXTINF:0 tvg-id="ext" group-title="Music",Sirina 3 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5534
+#EXTINF:0 tvg-id="ext" group-title="Music",Pleasure (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19672
+#EXTINF:0 tvg-id="ext" group-title="Music",TGirls (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13398
+#EXTINF:0 tvg-id="Venus.ar" group-title="Music",Venus (18+) AR
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/5496
+#EXTINF:0 tvg-id="ext" group-title="Music",SuperOne HD (18+) HU
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/16347
+#EXTINF:0 tvg-id="ext" group-title="Music",Hot Club (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19687
+#EXTINF:0 tvg-id="ext" group-title="Music",Babes 2 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19701
+#EXTINF:0 tvg-id="ext" group-title="Music",Babes 17 (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/19703
+#EXTINF:0 tvg-id="ext" group-title="Music",Nubiles Casting (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/13400
+#EXTINF:0 tvg-id="ext" group-title="Music",Erox (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23177
+#EXTINF:0 tvg-id="ext" group-title="Music",XXX Adult (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/23178
+#EXTINF:0 tvg-id="ext" group-title="Music",Vivid TV CA-FR (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/53706
+#EXTINF:0 tvg-id="ext" group-title="Music",ALBA XXX 1
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666419
+#EXTINF:0 tvg-id="ext" group-title="Music",ALBA XXX 2
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666420
+#EXTINF:0 tvg-id="ext" group-title="Music",ALBA XXX 3
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666421
+#EXTINF:0 tvg-id="ext" group-title="Music",ALBA XXX 4
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666422
+#EXTINF:0 tvg-id="ext" group-title="Music",ALBA XXX 5
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666423
+#EXTINF:0 tvg-id="ext" group-title="Music",ALBA XXX 6
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666424
+#EXTINF:0 tvg-id="ext" group-title="Music",Fake Agent HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666425
+#EXTINF:0 tvg-id="ext" group-title="Music",Fake Agent 3 HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666427
+#EXTINF:0 tvg-id="ext" group-title="Music",Fake Taxi HD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666428
+#EXTINF:0 tvg-id="ext" group-title="Music",Fake Taxi Female FHD (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666429
+#EXTINF:0 tvg-id="iskushenie" group-title="Music",Sext6senso (18+)
+http://mytv.fun:8080/Vlado11.12.19/MarkusicGarten/666430
+
